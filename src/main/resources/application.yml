@@ -1,6 +1,0 @@
-spring:
-    profiles:
-        active: dev
-
-config:
-    value: Hello
